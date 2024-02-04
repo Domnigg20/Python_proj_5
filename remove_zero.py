@@ -1,3 +1,5 @@
+##Python code to remove zeros from a sample txt file
+
 def remove_zeros(input_file, output_file):
     with open(input_file, 'r') as file:
         # Read the content of the file
